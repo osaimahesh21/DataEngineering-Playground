@@ -187,7 +187,6 @@ def main():
 
     # Create a date string for subfolder names (e.g. '20250305')
     date_str = run_date.strftime("%Y%m%d")
-    date_str = "20250306"
 
     # Create a timestamp for filenames that includes date+time (e.g. '20250305_140826')
     file_timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
