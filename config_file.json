@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "output_folder": "/Users/saimaheshobillaneni/Documents/data",
+    "tracker_file": "/Users/saimaheshobillaneni/Documents/data"
+  },
+  "data_settings": {
+    "num_rows_per_table": 500
+  }
+}
